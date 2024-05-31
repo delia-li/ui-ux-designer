@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 title: Rate My Transit
 date: 2014-07-18
-img: rmt.png
+img: submarine.png
 alt: image-alt
 project-date: February 2024
 client: Start Bootstrap
