@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: rmt.png
+img: cabin.png
 alt: image-alt
 project-date: February 2024
 client: Start Bootstrap
