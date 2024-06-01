@@ -2,8 +2,9 @@
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: cabin.png
+img: rmt.png
 alt: image-alt
+title: Rate my Transit
 project-date: February 2024
 client: Start Bootstrap
 category: Mobile App
